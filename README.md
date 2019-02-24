@@ -12,5 +12,5 @@ In the tutorial a pong game will be developed.
 
 
 <div>
-<img src = "./Screenshots/SketchVRinteractonPingPong.jpg" width = "300">
+<img src = "./Screenshots/SketchVRinteractionPingPong.jpg" width = "300">
 </div>
