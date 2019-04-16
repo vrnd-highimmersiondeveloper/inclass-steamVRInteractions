@@ -14,3 +14,6 @@ In the tutorial a pong game will be developed.
 <div>
 <img src = "./Screenshots/SketchVRinteractionPingPong.jpg" width = "300">
 </div>
+
+
+start Refactoring Test Case: Build floor with intact bricks; setting the bricks in first column consecutively (0,0), (0,1), (0,2) to Broken and subsequent to Destroyed; Spawn Repair Bricks only in first colunm. Result, all floor bricks have at the end the state intact, the repair bricks have been stacked.
